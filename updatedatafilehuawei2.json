@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.0",
-  "latestVersionCode": "1",
-  "url": "https://github.com/thatapps/SaveT/releases/download/savetube1.0.8/savetubenew.apk",
+  "latestVersion": "1.0.1",
+  "latestVersionCode": "2",
+  "url": "https://github.com/thatapps/TSave-New/releases/download/tubesave1.0.1/tubesave.apk",
   "releaseNotes": [
-    "- Version 1.0.0 Important Update",
+    "- Version 1.0.1 Important Update",
     "- Video Loading Bug Fixed",
-    "- Loading Speed Improved",
+    "- Comment Issue Fixed",
     "- Bug fixes"
   ]
 }
